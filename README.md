@@ -88,6 +88,11 @@ Une liste organisée de toutes les impressionnantes ressources technologiques fr
   * **Nombre de participants à la dernière édition**: 
   * **Twitter**: [@DevfestBdM](https://twitter.com/DevFestBdM)
 
+* [La FlowCon](https://www.flowcon.io/)
+  * **Description**: Conférence autour d'un concept principal: le développement de produits en flux, qu'il s'agisse de Lean, Kanban, Agilite, Continuous Delivery,...
+  * **Lieu**: Paris (75)
+  * **Twitter**: https://twitter.com/flowconfr
+
 ## Belgique
 * [FOSDEM](https://fosdem.org/2020/)
   * **Description**: FOSDEM est un événement gratuit permettant aux développeurs de se rencontrer, de partager des idées et de collaborer..
